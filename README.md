@@ -72,3 +72,24 @@ This is created through a *Deconvolutional Neural Network*.
 <img src="https://blogs.nvidia.com/wp-content/uploads/2018/04/cats-dogs-nvresearch1.png" height="700" width="500">
 <br>
 <img src="https://cdn-images-1.medium.com/max/800/1*HaExieykcOT5oI2_xKisrQ.png" height="700" width="500">
+
+
+# References
+
+- [DCGAN baseline](https://www.kaggle.com/artgor/dcgan-baseline) by Andrew
+- [RaLSGAN dogs](https://www.kaggle.com/speedwagon/ralsgan-dogs) by Vlad
+- [GAN dogs starter](https://www.kaggle.com/wendykan/gan-dogs-starter)
+- [GitHub Achronus generative_adversarial_networks](https://github.com/Achronus/Machine-Learning-101/blob/master/coding_templates_and_data_files/computer_vision/2.%20generative_adversarial_networks.py)
+- [It’s Training Cats and Dogs: NVIDIA Research Uses AI to Turn Cats Into Dogs, Lions and Tigers, Too](https://blogs.nvidia.com/blog/2018/04/15/nvidia-research-image-translation/)
+- [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+
+<br>
+<br>
+
+----
+
+## I think I'll keep updating this, I like this comp and GANs :D
+### btw, If you want to create a x5 team, I'm in :p
+
+![](https://i.imgflip.com/34fezh.jpg)
+
