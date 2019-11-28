@@ -87,9 +87,3 @@ This is created through a *Deconvolutional Neural Network*.
 <br>
 
 ----
-
-## I think I'll keep updating this, I like this comp and GANs :D
-### btw, If you want to create a x5 team, I'm in :p
-
-![](https://i.imgflip.com/34fezh.jpg)
-
