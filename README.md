@@ -59,7 +59,7 @@ This is created through a *Deconvolutional Neural Network*.
 
 **GANs** can be used for the following:
 
-- Generating Images
+- Generating Images 
 - Image Modification
 - Super Resolution
 - Assisting Artists
@@ -73,6 +73,11 @@ This is created through a *Deconvolutional Neural Network*.
 <br>
 <img src="https://cdn-images-1.medium.com/max/800/1*HaExieykcOT5oI2_xKisrQ.png" height="700" width="500">
 
+# **Project in Repo**
+
+--- 
+ - [Generation of Images (Dogs)](https://github.com/xlassix/GANs/blob/master/gan_introduction.ipynb)
+ - [Super Resolution](https://github.com/xlassix/GANs/blob/master/image-super-resolution.ipynb)
 
 # References
 
